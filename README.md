@@ -40,5 +40,5 @@ See the code in [`main.rs`](src/main.rs) for these offsets gotten with `/getcode
 ## Timeline
 
 * I created this [`lib.rs`](src/lib.rs) as a proof of concept
-* [@user32dll](https://github.com/lcsmnx) and I created a C version ([bedrock_finder](https://github.com/lcsmnx/bedrock_finder)) to brute-force the coordinates orignally
+* [@user32dll](https://github.com/user32dll) and I created a C version ([bedrock_finder](https://github.com/user32dll/bedrock_finder)) to brute-force the coordinates orignally
 * I remade the brute-force algorithm in Rust (this repository) and cleaned up the code
